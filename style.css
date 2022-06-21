@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 64px;
+    background-color: lightgray;
+}
+ul, a {
+    list-style: none;
+    text-decoration: none;
+    padding: 0px;
+    margin: 0;
+}
+.headerLinks {
+    display: flex;
+    font-size: 18px;
+    gap: 16px;
+}
+.headerLogo {
+    font-size: 24px;
+    font-weight: bold;
+}
