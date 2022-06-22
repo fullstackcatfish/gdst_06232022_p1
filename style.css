@@ -20,6 +20,16 @@ ul, a {
     font-weight: bold;
 }
 
+.jumbotron {
+  padding: 2rem;
+
+}
 .jumbotron img{
   width: 100%;
 }
+
+.about{
+  margin: 2rem;
+}
+
+
