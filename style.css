@@ -19,3 +19,7 @@ ul, a {
     font-size: 24px;
     font-weight: bold;
 }
+
+.jumbotron img{
+  width: 100%;
+}
